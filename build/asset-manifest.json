@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hzsollarinstallations-kano/static/css/main.5ff3d11e.css",
+    "main.js": "/hzsollarinstallations-kano/static/js/main.a6c6aa3c.js",
+    "static/js/453.2be1d30c.chunk.js": "/hzsollarinstallations-kano/static/js/453.2be1d30c.chunk.js",
+    "index.html": "/hzsollarinstallations-kano/index.html",
+    "main.5ff3d11e.css.map": "/hzsollarinstallations-kano/static/css/main.5ff3d11e.css.map",
+    "main.a6c6aa3c.js.map": "/hzsollarinstallations-kano/static/js/main.a6c6aa3c.js.map",
+    "453.2be1d30c.chunk.js.map": "/hzsollarinstallations-kano/static/js/453.2be1d30c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff3d11e.css",
+    "static/js/main.a6c6aa3c.js"
+  ]
+}
